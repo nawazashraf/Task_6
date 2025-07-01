@@ -26,7 +26,8 @@ The analysis involved the following key steps:
 
 Below is the screenshot of the final query output showing monthly revenue and order volume:
 
-c:\Users\Nawaz Ashraf\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\TempState\62FFFD413E498D17D11937928652B2E9\WhatsApp Image 2025-07-01 at 11.17.13_8602b52a.jpg
+![WhatsApp Image 2025-07-01 at 11 17 13_8602b52a](https://github.com/user-attachments/assets/e05b461a-2954-401a-b7d1-0b6408ff0fa5)
+
 
 _Ensure this screenshot is clear and shows the columns for year, month, total revenue, and order volume._
 
