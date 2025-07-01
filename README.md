@@ -29,7 +29,6 @@ Below is the screenshot of the final query output showing monthly revenue and or
 ![WhatsApp Image 2025-07-01 at 11 17 13_8602b52a](https://github.com/user-attachments/assets/e05b461a-2954-401a-b7d1-0b6408ff0fa5)
 
 
-_Ensure this screenshot is clear and shows the columns for year, month, total revenue, and order volume._
 
 ## Deliverables
 
